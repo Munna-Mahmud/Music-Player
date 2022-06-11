@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.banner{
+    background-image: url("images/Untitled\ design.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white !important;
+}
